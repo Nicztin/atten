@@ -1,9 +1,8 @@
-# Top 10 Best Tech Websites & Blogs
-[start](https://youtu.be/igZCEr3HwCg?si=yxoRte5QrUbvAe4T)
-
+# AT TEN 
+(https://chatgpt.com/share/67bd8559-a3dc-8006-ad44-8ed2b4e6b090)
 ## Description
 
-Daily Dev News is a platform that aggregates the latest news and articles for developers from various sources. It provides a curated list of high-quality content to keep developers up-to-date with the latest trends, technologies, and best practices in the software development industry.
+AT TEN is a platform that aggregates the latest news and articles for developers from various sources. It provides a curated list of high-quality content to keep developers up-to-date with the latest trends, technologies, and best practices in the software development industry.
 
 ## Table of Contents
 
