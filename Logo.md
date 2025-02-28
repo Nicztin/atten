@@ -1,6 +1,6 @@
 # NE ATTEN – Doing Everything Better 🌟
 
-For more information, read this book [website](https://simplebooklet.com/cyangradienttechnologystartup) to learn more.
+For more information, Read this [book](https://simplebooklet.com/book8page) to learn more.
 
 ## NE: Alternative Spelling - Nycstyn Enrypu
 The foundation of a brand built on innovation and striving for excellence. 🚀
