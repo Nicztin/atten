@@ -1,6 +1,6 @@
 # NE ATTEN – Doing Everything Better 🌟
 
-![Global Ghost Team](https://simplebooklet.com/cyangradienttechnologystartup)
+For more information, read this book [website](https://simplebooklet.com/cyangradienttechnologystartup) to learn more.
 
 ## NE: Alternative Spelling - Nycstyn Enrypu
 The foundation of a brand built on innovation and striving for excellence. 🚀
