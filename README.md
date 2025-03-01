@@ -1,53 +1,62 @@
-# Spy and Monitor
+# REVIEW BOARD
 
-Welcome to Spy and Monitor, a comprehensive solution for monitoring and spying on various activities. This website provides tools and resources to help you keep track of different aspects efficiently.
+## **NE ATTEN**
+- **Commitment to Doing Everything Better**
+- **Striving for Excellence and Continuous Improvement**
+- **More than a Slogan: A Promise to Always Do Better**
 
-## Overview
+## **IoT (Internet of Things)**
+- Network of physical devices connected to the internet.
+- Collects, exchanges, and analyzes data without human intervention.
+- Includes sensors, smart appliances, industrial machines, and wearable technology.
 
-Spy and Monitor is designed to offer users a robust platform for monitoring various activities. Whether you need to keep an eye on online activities, track specific data, or ensure security, Spy and Monitor has the tools you need.
+## **Vlog (Video Blog)**
+- Showcases daily life and personal experiences through video.
+- Shares events, places, insights, and activities with an audience.
+- Used to tell personal stories in a visual format.
 
-## Features
+## **VFX (Visual Effects)**
+- Process of adding or modifying visual elements in videos/films.
+- Uses computer technology to create effects.
+- Enables creators to achieve effects impractical in real life.
 
-- **Real-time Monitoring**: Get live updates on the activities you are tracking.
-- **Comprehensive Reports**: Generate detailed reports for thorough analysis.
-- **User-friendly Interface**: Easy to navigate and use, even for beginners.
-- **Customizable Alerts**: Set up alerts for specific activities to stay informed.
-- **Secure and Private**: Ensures your data is protected and confidential.
+## **Workforce**
+- Group of individuals engaged in or available for work.
+- Includes employees or workers who contribute to productivity and growth.
+- Applies to organizations, industries, and the economy.
 
-## Installation
+# NE ATTEN Webinars
 
-To set up Spy and Monitor, follow these steps:
+## **Security Research in Real Time**
+Security news doesn’t always wait for conference season. That’s the guiding principle behind Black Hat Webinars—a regular series of live web events focusing on the latest trends in **Information Security**.  
 
-1. Visit the [Spy and Monitor website](https://spyandmonitor.com/).
-2. Sign up for an account or log in if you already have one.
-3. Follow the on-screen instructions to configure your monitoring preferences.
-4. Start monitoring the activities you are interested in.
+Each month, we bring together **Black Hat speakers, independent researchers, and leading experts** to discuss relevant topics in security and provide opportunities for Q&A.
 
-## Usage
+If you have a topic you’d like to see addressed or have seen a presentation that the wider public would benefit from, reach out at **feedback (at) neatten (dot) com**.
 
-Using Spy and Monitor is straightforward:
+---
 
-1. **Dashboard**: Access your dashboard to view real-time data and reports.
-2. **Settings**: Customize your monitoring settings according to your needs.
-3. **Reports**: Generate and download reports for detailed analysis.
-4. **Alerts**: Manage your alert settings to receive notifications for specific activities.
+## **AI: Now Smarter Than Hackers, But Still Confused by Cats**
+Imagine a world where AI is:
+- Sharper than the most skilled hackers.
+- Detecting malicious intent in milliseconds.
+- Thwarting cyber threats with laser precision.
 
-## Contributing
+Yet, despite these advancements, AI can still be **baffled by a well-timed cat meme** or a furry friend causing an **image classification glitch**.  
 
-We welcome contributions from the community. If you would like to contribute to Spy and Monitor, please follow these guidelines:
+In this talk, we’ll explore:
+- The **highs and lows** of securing AI.
+- **Surprising vulnerabilities** in even the most advanced AI systems.
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Write clear and concise commit messages.
-4. Submit a pull request with a detailed description of your changes.
+---
 
-## License
+## **A Unified Platform**
+- **One Cloud Operating Model** for faster and safer operations.
+- **Break silos** between engineering and security teams.
+- **Continuous security improvement** with an integrated approach.  
+[Learn more](https://opencloud.eu/en)
 
-Spy and Monitor is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+---
 
-## Contact
-
-If you have any questions or need support, please contact us at [support@spyandmonitor.com](mailto:support@spyandmonitor.com).
-
-Thank you for using Spy and Monitor!
+Thank you for using opencloud!
 
