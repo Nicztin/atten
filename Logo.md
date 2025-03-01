@@ -1,6 +1,6 @@
 # NE ATTEN – Doing Everything Better 🌟
 
-![image](https://pin.it/I8aDG0akh)
+[Watch Video](https://vimeo.com/1061448537)
 
 For more information, Read this [book](https://simplebooklet.com/book8page) to learn more.
 
