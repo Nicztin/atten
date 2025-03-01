@@ -1,39 +1,8 @@
-# NE ATTEN – Doing Everything Better 🌟
+# NE ATTEN – Doing Everything Better 
 
 [Watch Video](https://vimeo.com/1061448537)
 
 For more information, Read this [book](https://simplebooklet.com/book8page) to learn more.
-
-## NE: Alternative Spelling - Nycstyn Enrypu
-The foundation of a brand built on innovation and striving for excellence. 🚀
-
-## AT: Our Presence Everywhere
-Committed to being accessible and impactful in every space we operate. 🌍
-
-## TEN: One of the Top 10
-Reflecting our determination to rank among the best and our pursuit of continuous improvement. 🏆
-
----
-
-## NE ATTEN | Nicztin Enripue at Ten, we are:
-
-### Committed to Doing Everything Better
-Striving for excellence and improvement every day. 💪
-
-### One of the Top 10
-Even if we’re not number 1, we are proud to be part of the top 10, proving our growth and dedication. 🎖️
-
-### Driven by Leadership and Accountability
-Taking responsibility for our actions and decisions, and refining our approach. 🧭
-
-### Continuous Development
-Always improving and exceeding expectations in every way possible. 📈
-
-### Rooted in Integrity
-Moving forward with purpose, innovation, and integrity to lead and shape the future. 🌱
-
----
-
 
 ## **NE ATTEN**
 - **Commitment to Doing Everything Better**
@@ -60,16 +29,7 @@ Moving forward with purpose, innovation, and integrity to lead and shape the fut
 - Includes employees or workers who contribute to productivity and growth.
 - Applies to organizations, industries, and the economy.
 
-# NE ATTEN Webinars
-
-## **Security Research in Real Time**
-Security news doesn’t always wait for conference season. That’s the guiding principle behind Black Hat Webinars—a regular series of live web events focusing on the latest trends in **Information Security**.  
-
-Each month, we bring together **Black Hat speakers, independent researchers, and leading experts** to discuss relevant topics in security and provide opportunities for Q&A.
-
-If you have a topic you’d like to see addressed or have seen a presentation that the wider public would benefit from, reach out at **feedback (at) neatten (dot) com**.
-
----
+# NE ATTEN Webinars 
 
 ## **AI: Now Smarter Than Hackers, But Still Confused by Cats**
 Imagine a world where AI is:
