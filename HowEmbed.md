@@ -65,7 +65,7 @@ Create a new file and save it as index.html.
     </a>
 
     <!-- Additional message -->
-    <p>➡ ចុចប៊ូតុង នឹងនាំអ្នកទៅ YouTube Channel Nicztin!</p>
+    <p>➡ Click on button YouTube Channel Nicztin!</p>
     <p>➡ Connect link to my channel</p>
 </body>
 </html>
