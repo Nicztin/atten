@@ -1,0 +1,10 @@
+            - name: Fleek IC Action
+  # You may pin to the exact commit or the version.
+  # uses: FleekHQ/IC-Deploy-Action@49861359a8ad6b82b8c163dfc88107a3720ffad9
+  uses: FleekHQ/IC-Deploy-Action@v1
+  with:
+    # IC identity for deploying the canisters
+    identity: 
+    # IC wallets for deploying the canisters
+    wallets: 
+          
